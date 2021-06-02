@@ -25,7 +25,7 @@
         "name": "grpcUrl",
         "type": "String",
         "description": "inferencing Url",
-        "default": "tcp://spatialanalysis:50051"
+        "default": "tcp://spatialAnalysis:50051"
       },
       {
         "name": "spatialanalysisusername",
